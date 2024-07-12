@@ -26,8 +26,6 @@ The data model consists of **two (2) Fact tables** (*Sales, Targets*) and **seve
 - *Salesperson* - same as *Salesperson (Performance)* but used for *Targets* to compare with *Sales*
 
 
-  
-
 ## Reports
 
 The reports include **three (3) pages**, ***Overview***, ***Profit***, and ***My Performance***
@@ -36,23 +34,24 @@ The reports include **three (3) pages**, ***Overview***, ***Profit***, and ***My
 - ***Profit*** - In-depth details centered around profit, with an interactable matrix of the complete summary of sales records.
 - ***My Performance*** - Indicators and visualizations showcasing an individual salesperson's performance with RLS implemented.
 
-### Sales Overview
+### Overview
 
-![Overview](https://github.com/keandrejimeno/portfolio/assets/173131794/21250680-262f-4bae-a9b0-f537cb771b8b)
+![image](https://github.com/user-attachments/assets/86dadf19-45f2-4f48-9314-84fef420811d)
 
-### Profit Analysis
+### Profit
 
-![Profit Analysis](https://github.com/keandrejimeno/portfolio/assets/173131794/ead85443-c0e1-4dbf-8fd5-dc1c34ec5648)
+![image](https://github.com/user-attachments/assets/2697cb3d-950c-4506-b22a-debf69c31bf1)
 
 
 ### Salesperson Performance
 
-![Salesperson Performance](https://github.com/keandrejimeno/portfolio/assets/173131794/db0f72d3-0f70-4981-b464-e8d206197017)
+![image](https://github.com/user-attachments/assets/42e1e767-1351-440a-8f71-3867ff1a51fb)
+
 
 
 ## Insights 
 
-- Sales and Quantity Sold have been consistently growing since FY2018, but Profit and Profit Margins fell behind and suffered a loss for the first time in the latest year, FY2020.
+- Sales have been consistently growing since FY2018, but Profit and Profit Margins fell behind and suffered a loss for the first time in the latest year, FY2020.
 - Analyzing Profit Margins by Product Category, Bikes has had a small profit margin since its inception, and the turn to FY2020 broke and failed to recover.
 - Salesperson Performances have been consistently well throughout FY2020.
 - To stay afloat, the company must deal with the ironic problem of making their Bikes profitable to sell.
