@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e6dc0493-9573-4e17-8228-787ae0345652)
 # Sales Analysis
 
 This project consists of Power BI reports of the classic sample database "AdventureWorks" v. 2022, created as part of the suggested exercises in Microsoft's learning courses in preparation for the PL-300 certification exam.
