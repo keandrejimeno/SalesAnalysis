@@ -14,7 +14,7 @@ The goal is to create a sales analysis BI report for AdventureWorks given the da
 
 [Here is the Sales Analysis Report file created](https://github.com/keandrejimeno/SalesAnalysis/blob/main/Sales%20Analysis%20Demo.pbix).
 
-And its [pdf form](https://github.com/keandrejimeno/SalesAnalysis/blob/main/Sales%20Analysis%20Demo.pbix) but is not interactable.
+And its [pdf form](https://github.com/keandrejimeno/SalesAnalysis/blob/main/Sales%20Analysis%20Demo.pbix).
 
 A dashboard cannot be provided since Power BI service are exclusive to organization accounts.
 
