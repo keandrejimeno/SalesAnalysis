@@ -10,6 +10,12 @@ AdventureWorks is a global wholesaler company that sells and distributes bicycle
 
 The goal is to create a sales analysis BI report for AdventureWorks given the data. The report should include visualizations of the company's sales, profit and quantity sold in a given time range. The data can be presented in large categories (Countries, Product Categories). It should also include KPIs that showcases positive or negative performances. Furthermore, the BI report must have a salesperson performance analysis that can be exclusively viewed by the salesperson when opened in Power BI through his/her UPN.
 
+## Report
+
+[Here is the Sales Analysis Report file created](https://github.com/keandrejimeno/SalesAnalysis/blob/main/Sales%20Analysis%20Demo.pbix).
+And its [pdf form](https://github.com/keandrejimeno/SalesAnalysis/blob/main/Sales%20Analysis%20Demo.pbix) but is not interactable.
+A dashboard cannot be provided since Power BI service are exclusive to organization accounts.
+
 ## Data Model
 
 The data model consists of **two (2) Fact tables** (*Sales, Targets*) and **seven (7) Dimension tables** (*Reseller, Product, Salesperson, Date, Region, SalespersonRegion, Salesperson (Performance)*). 
