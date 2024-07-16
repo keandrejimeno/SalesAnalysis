@@ -1,13 +1,14 @@
 # Sales Analysis
 
-This project consists of Power BI reports of the classic sample database "AdventureWorks" v. 2022, created as part of the suggested exercises in Microsoft's learning courses in preparation for the PL-300 certification exam.
+This project consists of Power BI reports of the classic sample database "AdventureWorks" v. 2022, created as part of the suggested exercises in Microsoft's learning courses in preparation for the PL-300 certification exam. The interactive report showcases the sales overview, profit analysis, and individual performances of the salespersons.
 
-## Overview
+## About
 
 AdventureWorks is a global wholesaler company that sells and distributes bicycles and related products such as clothing for cycling, components and parts, and accessories to resellers. The database is generated and used by their sales department. It consists of 57,851 sales entries spanning Fiscal Year (FY) 2018 to FY 2020, with dimension tables of its corresponding salespersons, product IDs, and regions sold. It also includes target sales for FY 2021 designated for each salesperson.
 
-The interactive report showcases the sales performances, profit analysis, and individual performances of the salespersons under AdventureWorks.
+## Goal
 
+The goal is to create a sales analysis BI report for AdventureWorks given the data. The report should include visualizations of the company's sales, profit and quantity sold in a given time range. The data can be presented in large categories (Countries, Product Categories). It should also include KPIs that showcases positive or negative performances. Furthermore, the BI report must have a salesperson performance analysis that can be exclusively viewed by the salesperson when opened in Power BI through his/her UPN.
 
 ## Data Model
 
@@ -74,6 +75,7 @@ The reports include **three (3) pages**, ***Overview***, ***Profit***, and ***My
 ![image](https://github.com/user-attachments/assets/fb335f98-ddae-4324-8122-48d0a62383c3)
 ![image](https://github.com/user-attachments/assets/3646990f-0cd5-4e08-aabe-86bde57e2706)
 
+## Conclusion
 
-- In conclusion, to stay afloat, **the company must deal with the ironic problem of making their Bikes profitable to sell**, either through increasing prices of Bikes (with an expected slowdown of sales and quantity demanded) or cutting costs of Bikes. Additionally, it can continue to prioritize other products that have shown consistently large profit margins. It would not be wise to conclude a slowdown of the company's growth or market tipping since sales and quantity continue to grow despite the loss in profits.
+The Power BI report for the Sales Analysis is able to provide relevant and insightful visualizations and presentations about the sales performance for AdventureWorks. In conclusion, to stay afloat, **the company must deal with the ironic problem of making their Bikes profitable to sell**, either through increasing prices of Bikes (with an expected slowdown of sales and quantity demanded) or cutting costs of Bikes. Additionally, it can continue to prioritize other products that have shown consistently large profit margins. It would not be wise to conclude a slowdown of the company's growth or market tipping since sales and quantity continue to grow despite the loss in profits.
 
