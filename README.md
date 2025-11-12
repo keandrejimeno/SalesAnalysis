@@ -1,4 +1,4 @@
-# Sales Analysis
+# Adventure Works Sales Analysis
 
 This project consists of Power BI reports of the classic sample database "AdventureWorks" v. 2022, created as part of the suggested exercises in Microsoft's learning courses in preparation for the PL-300 certification exam. The interactive report showcases the sales overview, profit analysis, and individual performances of the salespersons.
 
